@@ -1,0 +1,37 @@
+[
+    {
+        "taskId": "efbfbd57-4926-08ef-bfbd-4a7aefbfbd17",
+        "priority": "LOW",
+        "subTaskList": [],
+        "assignedUser": "133e253d-2086-416b-afd1-3e8abf305636",
+        "taskTitle": "Aufgabe 1",
+        "taskDescription": "Beschreibung",
+        "dueDay": "2015-06-23T22:00:00.000+00:00",
+        "plannedEffort": 1,
+        "state": "CLOSED",
+        "list": null
+    },
+    {
+        "taskId": "efbfbd37-4926-08ef-bfbd-4a7aefbfbd19",
+        "priority": "LOW",
+        "subTaskList": [
+            {
+                "subtaskId": "85412a08-9f73-4fe5-a4ea-7ce920db6c78",
+                "subtaskTitle": "Test SubTask",
+                "subtaskDescription": "Beliebige Beschreibung",
+                "state": "OPEN"
+            }
+        ],
+        "assignedUser": "133e253d-2086-416b-afd1-3e8abf305636",
+        "taskTitle": "Aufgabe 3",
+        "taskDescription": "Beschreibung",
+        "dueDay": "2015-06-23T22:00:00.000+00:00",
+        "plannedEffort": 1,
+        "state": "CLOSED",
+        "list": {
+            "listId": "efbfbd99-4926-08ef-bfbd-4a7aefbfbd15",
+            "title": "Liste 2",
+            "description": "Listen beschreibung 2"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "taskId": "53d8173e-759d-4c77-b3c8-97b4bcace37d",
+    "priority": "LOW",
+    "subTaskList": [],
+    "assignedUser": "133e253d-2086-416b-afd1-3e8abf305636",
+    "taskTitle": "Aufgabe Testing",
+    "taskDescription": "Aufgabe anlegen mit Cypress",
+    "dueDay": "2022-05-16T14:58:57.598+00:00",
+    "plannedEffort": 1,
+    "state": "OPEN"
+}
